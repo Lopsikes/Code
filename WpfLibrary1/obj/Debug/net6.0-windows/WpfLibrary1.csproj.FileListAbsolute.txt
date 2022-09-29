@@ -1,0 +1,5 @@
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.csproj.AssemblyReference.cache
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.AssemblyInfoInputs.cache
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.AssemblyInfo.cs
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.csproj.CoreCompileInputs.cache
